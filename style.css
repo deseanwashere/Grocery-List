@@ -1,0 +1,15 @@
+body { background-color: darkslategrey;}
+
+
+header { font-size: 55px;
+           padding: 25px;
+        border: 30px solid pink;
+    margin: 55px; }
+
+   .realfoods{background-color: aqua;} 
+
+ .frozenfoods{  background-color:blue;}
+ 
+ .pantryitems { background-color: purple;}
+
+ .spices{ background-color: red;}
